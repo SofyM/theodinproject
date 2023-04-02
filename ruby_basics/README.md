@@ -31,7 +31,7 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 
 #### 8.Methods
 
-- [ ] Method Exercises
+- [X] Method Exercises
 
 #### 9.Debugging
 
