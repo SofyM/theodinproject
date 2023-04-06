@@ -1,6 +1,7 @@
 def substrings(str, substr_array)
     hash = Hash.new(0)
-    substr_array.each { |sub| hash[sub] = str.downcase.scan(sub).size if str.downcase.include?(sub) }
+    substr_array.join(" ").downcase.split(" ")
+        .each { |sub| hash[sub] = str.downcase.scan(sub).size if str.downcase.include?(sub) }
     return hash
 end
 
