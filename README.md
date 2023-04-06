@@ -1,1 +1,1 @@
-odin project
+Exercises for [The Odin Project](https://www.theodinproject.com/).
